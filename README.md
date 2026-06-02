@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi 👋, I'm Abhay Kushwaha
 
-<!--
-**abhaytech271236-ctrl/abhaytech271236-ctrl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Frontend Developer & Web Development Learner
 
-Here are some ideas to get you started:
+🌱 Currently Learning:
+- HTML
+- CSS
+- JavaScript
+- TypeScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Projects:
+- Roj-Tech
+- Offline AI Chatbot
+- HTML Tutorial
+- Roj Study
+
+🎯 Goal:
+To become a skilled web developer and build useful projects.
+
+⭐ Thanks for visiting my profile!## Hi there 👋
+
